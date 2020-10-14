@@ -2,6 +2,6 @@ Hello world
 
 changes from online editor
 
-this changes is locally
+updated this file for reset
 
-i want to revert this.
+i want to revert this
