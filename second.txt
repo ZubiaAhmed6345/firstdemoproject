@@ -2,4 +2,4 @@ demo practice <3
 
 another changes from online editor
 
-fast forward practice
+this update for merge-commit
